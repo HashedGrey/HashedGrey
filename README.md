@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
  <br/>
 👋🏼 Hi there!
 
-- ⚡ I'm a Distributed Systems Engineer mostly  writing SpringBoot, Postgres+Cassandra, Kafka, Redis, Embabel and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
+- ⚡ I'm a Tech Lead specializing in Spring Boot enterprise systems and distributed architecture. I Built and maintain a cloud-native real-time chat, voice call + notification workflow, handling ~400 concurrent peak users with event-based coordination, backpressure-aware processing, and production monitoring.
+- I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
 
-- ⚡  The odds of Big AI shareholders locking-in to `low-latency llm-spotify intergration` hype to come up with `Bumblebee-like Speech Synthesis` for automobiles will always be non-zero.
-- ⚡The odds of neuralink lowering the signal-to-noise ratio of recorded neural activity in animals, allowing more accurate decoding and transmission of intent for effective communication(lossy human-level speech) is also non-zero
+- ⚡The odds of neuralink lowering the signal-to-noise ratio of recorded neural activity in animals, allowing more accurate decoding and transmission of intent for effective communication(lossy human-level speech) is non-zero.
 - 🔭  After all, Reality is Just a Wrapper For Information Distribution/, Shannon Entropy if you may, on our Kardashev Gradient Ascent.
 
 <p>
