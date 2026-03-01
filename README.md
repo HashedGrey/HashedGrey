@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ I'm a Software Architect and Head of Tech with 8+ years of experience specializing in Spring Boot enterprise systems and distributed architecture. I Built and maintain a cloud-native real-time chat, voice call + notification workflow, handling ~400 concurrent peak users with event-based coordination, backpressure-aware processing, and production monitoring.
 - I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
 
-- ⚡The odds of Brain-Computer Interfaces lowering the signal-to-noise ratio of recorded neural activity in animals, allowing more accurate decoding and transmission of intent for effective communication(lossy human-level speech) is non-zero.
-- 🔭  After all, Reality is Just a Wrapper For Information Distribution/, Shannon Entropy if you may, on our Kardashev Gradient Ascent.
+- 🔭  Reality may Just be a Wrapper For Information Distribution/, Shannon Entropy if you may, on our Kardashev Gradient Ascent.
 
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>
