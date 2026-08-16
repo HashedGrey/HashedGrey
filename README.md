@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ I'm a Software Architect and Head of Tech with 8+ years of experience specializing in Spring Boot enterprise systems and Agentic Orchestration in Distributed Architecture. I Built and maintain a cloud-native Event Logistics System with real-time chat, voice and video calls + notification workflow, handling multiple concurrent peak users with event-based coordination, backpressure-aware processing and production monitoring.
 - I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
 
-- 🔭  Reality may Just be a Wrapper For Information Distribution/, Shannon Entropy if you may, on our Kardashev Gradient Ascent.
+- 🔭  Reality may (Just) be a Wrapper For Entropy on our Kardashev Gradient Ascent.
 
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>
