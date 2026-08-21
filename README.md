@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
 Streaming from Nairobi with some ## hashes for added security😎. I'm a tech lead with 8 years of experience who loves solving problems using my keyboard.
 Below are some tools I frequently use, and I'm currently building SparrowX: An Agentic AI-Driven Internal knowledge that answers from company documents and internal domain data, with cited evidence and auditable agent traces 
 
-
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" height="25px"/>
@@ -26,8 +25,3 @@ Below are some tools I frequently use, and I'm currently building SparrowX: An A
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 </p>
-
-<p>
- <a href="https://www.linkedin.com/in/aggrey-lelei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://aggreylelei.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/aggrey_lelei" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a> 
-</p>
-
