@@ -5,8 +5,10 @@ You can click the Preview link to take a look at your changes.
 
  <br/>
  <h2><p align="center"><b> 👋🏼Hi there! I'm Aggrey, an Applied AI and Backend Engineer </b></p></h1>
-Streaming from Nairobi with some ## hashes for added security😎. I'm a tech lead with 8 years of experience who loves solving problems using my keyboard.
-Below are some tools I frequently use, and I'm currently building SparrowX: An Agentic AI-Driven Internal knowledge that answers from company documents and internal domain data, with cited evidence and auditable agent traces 
+- Streaming from Nairobi with some ## hashes for added security😎. 
+- I'm a tech lead with 8 years of experience who loves solving problems using my keyboard.
+- I'm currently building SparrowX: An Agentic AI-Driven Internal knowledge that answers from company documents and internal domain data, with cited evidence and auditable agent traces.
+- Below are some tools I frequently use:
 
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>
