@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  <br/>
- <h2><p align="center"><b> 👋🏼Hi there! I'm Aggrey, an Applied AI and Backend Engineer </b></p></h1>
+ <h2><p align="center"><b> 👋🏼Hi there! I'm Aggrey, an Agentic AI Engineer & Architect </b></p></h1>
 - Streaming from Nairobi with some ## hashes for added security😎. <br/>
 - I'm a tech lead with 8 years of experience who loves solving problems using my keyboard. <br/>
 - I'm currently building SparrowX: An Agentic AI-Driven Internal Company knowledge System that's meant to serve as an actual deep dive into an enterprise grade Applied AI setting. <br/>
